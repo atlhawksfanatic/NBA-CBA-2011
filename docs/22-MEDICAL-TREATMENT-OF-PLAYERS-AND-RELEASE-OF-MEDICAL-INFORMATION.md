@@ -1,0 +1,41 @@
+# MEDICAL TREATMENT OF PLAYERS AND RELEASE OF MEDICAL INFORMATION
+\chaptermark{MEDICAL TREATMENT OF \ldots}
+
+## One Surgeon.
+
+Each Team agrees that a player requiring the care and treatment of an
+orthopedic surgeon will, so far as practicable, be referred to and treated by one (1) orthopedic surgeon (rather than several).
+
+## Committee of Team Physicians.
+
+Representatives designated by the Players Association shall participate in meetings of the committee of Team physicians appointed by the NBA for the purpose of discussing matters related to the medical care and treatment of players.
+
+## Disclosure of Medical or Health Information.
+
+(a) A Team physician may disclose all relevant medical information concerning a player to (i) the General Manager, coaches, and trainers of the Team by which such player is employed, (ii) any entity from which any such Team seeks to procure, or has procured, an insurance policy covering such player's life or any disability, injury or illness such player may suffer or sustain, and (iii) subject to the terms of Section 3(d) below, the media or public on behalf of the Team.
+(b) Should it be requested in connection with the contemplated assignment of a player's Uniform Player Contract to one or more NBA Teams, a Team's physician may furnish all relevant medical information relating to the player to (i) the physicians and General Manager, coaches, and trainers of such other Team or Teams, and (ii) any entity from which any such other Team seeks to procure, or has procured, an insurance policy covering such player's life or any disability, injury or illness such player may suffer or sustain.
+(c) Should a Team assign a player to the NBADL, such Team's physician may furnish all relevant medical information relating to the player to (i) the NBADL, (ii) the physicians and General Manager, head coaches, and trainers of the player's NBADL team, and (ii) any entity from which the Team, the NBADL, or the player's NBADL team seeks to procure, or has procured, an insurance policy covering such player's life or any disability, injury or illness such player may suffer or sustain. In addition, an NBADL team physician may furnish all relevant medical information relating to the player to the physicians and General Manager, coaches, and trainers of the player's Team.
+(d) Subject to Section 3(e) below, each Team may make public medical information relating to the players in its employ, provided that such information relates solely to the reasons why any such player has not been or is not rendering services as a player.
+(e) A player or his immediate family (where appropriate) shall have the right to approve the terms and timing of any public release of medical information relating to any injuries or illnesses suffered by that player that are potentially life- or career-threatening, or that do not arise from the player's participation in NBA games or practices.
+(f) A player is entitled access to his own medical records and the Team shall use best efforts to provide such information on or before forty-eight (48) business hours of a player request.
+
+## Draftees.
+
+Prior to any NBA Draft, the NBA and/or its Teams, acting jointly, may request that persons eligible for such Draft voluntarily submit to the administration of standardized medical or laboratory tests (other than tests for controlled substances), and intelligence and/or personality tests, the results of which shall be made available to any Team upon request, but which shall be kept confidential from the public and the media. Any person who submits to the administration of such tests may, prior to such Draft, be requested to submit voluntarily to an examination by the physician(s) for an NBA Team(s), but shall not be requested to undergo any further medical or laboratory test administered at the request of the NBA and/or its Teams acting jointly unless such follow-up testing is deemed necessary by an NBA-appointed physician on the basis of the initial testing results.
+
+## Selection of Team Physician and Other Health Care Providers.
+
+Each Team has the sole and exclusive discretion to select any doctors, hospitals, clinics, health consultants, or other health care providers ("Health Care Providers") to examine and/or treat players pursuant to the terms of this Agreement and the Uniform Player Contract; provided, however, no Team will engage any such Health Care Provider based primarily on a sponsorship relationship (or lack thereof) with the Team, and without considering the Health Care Provider's qualifications (including, e.g., medical experience and credentials) and the goal of providing high quality care to all of its players.
+
+## Health Screenings.
+
+Players shall submit to reasonable screening and baseline testing (e.g., pursuant to NBA cardiac and concussion protocols) and, in connection with such screening and testing, shall accurately and completely answer all reasonable health questions (including, upon request, providing accurate and complete medical histories).
+
+## Electronic Medical Records.
+
+The NBA may, during the Term, develop and implement an electronic medical records system ("EMR") that will provide a secure, searchable, centralized database of player health information. To the extent health information disclosures are permitted by this Agreement (including the Uniform Player Contract), such disclosures may be made via secure systems within the EMR. In addition, the EMR will: (i) allow for the NBA (but not the Teams) to conduct player health and safety reviews; (ii) allow for authorized academic researchers to access the data (on a de-identified basis) and conduct studies designed to improve player health and broaden medical knowledge (provided that the Players Association will be provided with notice prior to any such access and gives its consent, such consent not to be unreasonably withheld); and (iii) give players the ability to easily access their own health information and to grant access to such information to physicians of their choice both during and after their careers.
+
+## Concussion Policy.
+
+(a) A concussion policy designed to maximize the neurological health of players, which was developed in conjunction with the committee of Team physicians, will be implemented beginning with the 2011-12 Season.
+(b) The concussion policy will be reviewed periodically by the committee of Team physicians in order to keep it current and consistent with the evolving science of concussion management.
